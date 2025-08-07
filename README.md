@@ -13,3 +13,6 @@
 
 
 ## Authors 
+MIT Master of Business Analytics, Class of 2024
+* Victoria Shi
+* Ami Zhao
